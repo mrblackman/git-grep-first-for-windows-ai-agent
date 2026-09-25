@@ -2,6 +2,7 @@
 ### The 1-Prompt Fix That Speeds Up Windows AI Agents by 400x and Saves 99.6% Tokens
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-mrblackman-yellow.svg?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/mrblackman)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 [![Tested on](https://img.shields.io/badge/Tested%20on-Cursor%20%7C%20Claude%20Code%20%7C%20Antigravity%20%7C%20Copilot%20%7C%20Cline-orange.svg)]()
 
@@ -104,6 +105,14 @@ When running Windows shell commands, use `git grep -n` for symbol search. Do not
 Because **100% of developers using AI coding assistants are working inside a Git repository**, and `git.exe` is already installed, configured, and accessible on the Windows system `PATH`. 
 
 Steering the model toward `git grep` transforms Windows from a sluggish, token-burning second-class citizen into a lightning-fast, production-grade AI coding environment.
+
+---
+
+## ☕ Support
+
+If this 1-prompt fix saved your workflow from terminal freezes, slashed your token bills, or made your Windows AI agent 400x faster, consider buying me a coffee!
+
+[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/mrblackman)
 
 ---
 
